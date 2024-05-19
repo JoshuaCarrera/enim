@@ -14,4 +14,4 @@ This is a web enumeration tool made with nim.
 - --extensions,	-x
 
 ### Example:
-`enim -u=http://localhost:8080/ -w=/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -c=500 -x=html,php` 
+`./enim -u=http://localhost:8080/ -w=/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -c=500 -x=html,php` 
